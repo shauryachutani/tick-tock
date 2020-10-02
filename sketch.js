@@ -25,7 +25,7 @@ stroke(255,0,0)
 strokeWeight(7)
 line(0,0,100,0)
 
-translate(100,220)
+translate(50,30)
 pop()
 drawSprites();
 }
